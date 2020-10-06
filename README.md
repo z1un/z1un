@@ -1,4 +1,4 @@
-![zjun's github stats](https://github-readme-stats.vercel.app/api?username=z1un&show_icons=true&theme=graywhite) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1un)
+![zjun's github stats](https://github-readme-stats.vercel.app/api?username=z1un&show_icons=true&theme=graywhite)
 
 ### Hi, [Click](https://www.zjun.info) to enter my blog! 👋
 
