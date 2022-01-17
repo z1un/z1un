@@ -1,5 +1,4 @@
 ### Hi, I'm zjun! <img align='right' src="https://profile-counter.glitch.me/z1un/count.svg" width="200">
-### [Click](https://www.zjun.info) to enter my homepage!         
-Research direction of information security, Currently focus on Web security and penetration testing. The hacker spirit yearning for Open, Free, and Share. Also an amateur ctfer.
+### [Click](https://www.zjun.info) to enter my homepage!
 
-信息安全研究方向，目前着力于Web安全与渗透测试，向往Open、Free、Share的黑客精神。同时也是一名业余ctfer。
+潜心习安全，信息安全研究方向。目前着力于网络安全与渗透测试、高级可持续威胁攻击等相关研究，向往 Open、Free、Share 的黑客精神。
