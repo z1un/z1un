@@ -1,5 +1,5 @@
 ID: zjun
-<img align='center' src="https://profile-counter.glitch.me/z1un/count.svg" width="200">
+<img align='right' src="https://profile-counter.glitch.me/z1un/count.svg" width="200">
 
 主页: [zjun](https://zjun.info)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=z1un&show_icons=true&count_private=true&theme=dracula" />  
