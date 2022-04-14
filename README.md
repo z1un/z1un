@@ -1,6 +1,6 @@
-ID: zjun  <img align='right' src="https://profile-counter.glitch.me/z1un/count.svg" width="200">
+ID: zjun  <img align='right' src="https://github-readme-stats.vercel.app/api?username=Al1ex&show_icons=true&count_private=true&theme=dracula" />  
 
-主页: [zjun](https://zjun.info) <img align='right' src="https://github-readme-stats.vercel.app/api?username=Al1ex&show_icons=true&count_private=true&theme=dracula" />
+主页: [zjun](https://zjun.info) <img align='right' src="https://profile-counter.glitch.me/z1un/count.svg" width="200">
 
 博客: [zjun's blog](https://blog.zjun.info)
 
